@@ -1,0 +1,27 @@
+.home-container {
+    min-height: 100vh;
+    background-image: url("../../assets/img/home.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    padding: 0 16px;
+  }
+  
+  .home-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 32px 0;
+  }
+  
+  .home-title {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  
+  .home-text {
+    font-size: 18px;
+    line-height: 1.5;
+  }
